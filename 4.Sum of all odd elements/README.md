@@ -1,4 +1,4 @@
-# [Print sum of all odd elements in an array.](https://www.hackerrank.com/contests/smart-interviews-basic/challenges/si-basic-max-element/problem)
+# [Print sum of all odd elements in an array.](https://www.hackerrank.com/contests/smart-interviews-basic/challenges/si-basic-sum-of-odd-elements/problem)
 
 ## Input Format
 
