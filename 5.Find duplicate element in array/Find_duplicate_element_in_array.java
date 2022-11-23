@@ -21,3 +21,7 @@ class Solution {
         System.out.println(duplicate(arr,n));
     }
 }
+
+
+/* https://github.com/innith/Smart-Interviews-Basic-
+   https://www.linkedin.com/in/innith*/

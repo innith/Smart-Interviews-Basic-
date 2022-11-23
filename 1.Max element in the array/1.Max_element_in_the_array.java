@@ -14,3 +14,6 @@ class Solution {
         System.out.println(max);
     }
 }
+
+/* https://github.com/innith/Smart-Interviews-Basic-
+   https://www.linkedin.com/in/innith*/
