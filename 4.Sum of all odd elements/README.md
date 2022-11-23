@@ -1,4 +1,4 @@
-# [Print unique elements of array](https://www.hackerrank.com/contests/smart-interviews-basic/challenges/si-basic-print-unique-elements-of-array/problem)
+# [Print sum of all odd elements in an array.](https://www.hackerrank.com/contests/smart-interviews-basic/challenges/si-basic-max-element/problem)
 
 ## Input Format
 
@@ -11,14 +11,14 @@ First line of input contains N - the size of the array and second line contains 
 
 ## Output Format
 
-Print unique elements of array
+Print sum of all odd elements of the given array.
 
 ## Sample Input 0
 ```
-7
-5 4 10 9 21 4 10
+5
+6 9 8 4 3
 ```
 ## Sample Output 0
 ```
-5 9 21
+12
 ```

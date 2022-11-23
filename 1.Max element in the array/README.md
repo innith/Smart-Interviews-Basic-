@@ -7,7 +7,7 @@ First line of input contains N - the size of the array and second line contains 
 ## Constraints
 
 1 <= N <= 100 <br />
--109 <= ar[i] <= 109
+-10<sup>9</sup> <= ar[i] <= 10<sup>9</sup>
 
 ## Output Format
 
