@@ -14,9 +14,11 @@ First line of input contains N - the size of the array and second line contains 
 Print the maximum element of the given array.
 
 ## Sample Input 0
-
-5 <br/>
+```
+5 
 -2 -19 8 15 4
+```
 ## Sample Output 0
-
+```
 15
+```

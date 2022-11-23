@@ -14,9 +14,11 @@ First line of input contains N - the size of the array and second line contains 
 Print unique elements of array
 
 ## Sample Input 0
-
-7 <br/>
+```
+7
 5 4 10 9 21 4 10
+```
 ## Sample Output 0
-
+```
 5 9 21
+```
